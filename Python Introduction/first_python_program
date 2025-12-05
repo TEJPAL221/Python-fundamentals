@@ -1,0 +1,4 @@
+#Note-single quotes and double quotes both are allowed.
+#Note- Genrally double quotes(" ") are used for strings and single quotes(' ') for the characters as good practice.
+print("hello,world!")
+print('hello,world!')
