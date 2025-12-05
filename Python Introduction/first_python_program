@@ -2,3 +2,15 @@
 #Note- Genrally double quotes(" ") are used for strings and single quotes(' ') for the characters as good practice.
 print("hello,world!")
 print('hello,world!')
+
+#comments
+
+#Note- comments are used in programming language to suggest something or giving some information about the written code.
+
+# The Hashtag(#) symbol is used for single line comment.
+
+''' 
+For multi-line comments we use triple quotes.
+Anything written between this code is considered as a comment.
+'''
+#Also a wrking code written inside comment it will not perform its desired task.
